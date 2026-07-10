@@ -85,10 +85,6 @@ MIT License.
 
 ## Developer
 
-**Yildirim Salahaldin Hussein**
+**Inv. Yildirim Salahaldin Hussein**
 
-Assistant Lecturer
 
-University of Kirkuk
-
-Iraq
