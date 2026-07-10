@@ -69,6 +69,27 @@ The proprietary SSRE™ engine performs:
 
 Screenshots are available inside the **screenshots** folder.
 
+## Screenshots
+
+### Login
+
+![Login](screenshots/Welcome_page.png)
+
+### Home
+
+![Home](screenshots/home.png)
+
+### Analysis
+
+![Analysis](screenshots/analysis.png)
+
+### AI Expert
+
+![AI Expert](screenshots/ai_expert.png)
+
+### Reports
+
+![Reports](screenshots/reports.png)
 ---
 
 ## Citation
