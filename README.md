@@ -92,20 +92,37 @@ Screenshots are available inside the **screenshots** folder.
 ![Reports](screenshots/Export_Page.png)
 ---
 
+
+## Developer
+
+Inv. Yildirim Salahaldin Hussein
+Academic and inventor who hold the (Inv.) – Certified Inventor from IFIA (Geneva) and globally to obtain a patent in artificial intelligence algorithms. Achieved significant research and practical contributions in artificial intelligence, LLM, applied statistics, and programming. First Iraqi, appointed in The International Society of Data Scientists ISODS as (Vice President) for Iraq with recognitions from IBM as Rising Champion, OpenAI, IEEE, ScoreDetect, and OriginStamp. Developer of impactful AI systems (Search, Eco Predict, Chot, Smastatic) and author of the book Research and Advanced Technology Centers and AI.
+---
+
 ## Citation
 
-If you use Smastatic Professional™ in academic work, please cite the software using the provided **CITATION.cff** file.
+If you use YILDO AI in research, publications, or academic work, please cite the software using the provided citation information.
 
+DOI:
+https://doi.org/10.5281/zenodo.21294574
 ---
 
 ## License
 
-MIT License.
+This project is distributed under the MIT License.
 
 ---
 
-## Developer
+## Contact
 
-**Inv. Yildirim Salahaldin Hussein**
+GitHub:
+https://github.com/Yildirimshh
 
+LinkedIn:
+https://iq.linkedin.com/in/inv-yildirim-s-h-492b65117
 
+Google Scholar:
+https://scholar.google.com/citations?user=9XP3qjYAAAAJ&hl=tr
+
+ORCID:
+https://orcid.org/0009-0007-7411-1503
