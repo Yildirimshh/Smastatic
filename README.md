@@ -71,25 +71,25 @@ Screenshots are available inside the **screenshots** folder.
 
 ## Screenshots
 
-### Login
+### Welcome Page
 
 ![Login](screenshots/Welcome_page.png)
 
-### Home
+### Home Page
 
-![Home](screenshots/home.png)
+![Home](screenshots/Home_Page1.png)
 
-### Analysis
+### Analysis Page
 
-![Analysis](screenshots/analysis.png)
+![Analysis](screenshots/Analysis_Page.png)
 
-### AI Expert
+### AI Expert Page
 
-![AI Expert](screenshots/ai_expert.png)
+![AI Expert](screenshots/ai_Expert_Page.png)
 
 ### Reports
 
-![Reports](screenshots/reports.png)
+![Reports](screenshots/Export_Page.png)
 ---
 
 ## Citation
