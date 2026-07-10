@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+
+title: "Smastatic Professional™"
+
+message: "If you use this software, please cite it as follows."
+
+type: software
+
+authors:
+
+- family-names: "Hussein"
+
+  given-names: "Yildirim Salahaldin"
+
+orcid: "https://orcid.org/0009-0007-6426-0122"
+
+version: "1.0"
+
+date-released: 2026-07-10
+
+license: MIT
+
+abstract: >
+
+  Smastatic Professional™ is a desktop statistical analysis platform
+
+  featuring the proprietary Smastatic Statistical Reasoning Engine™
+
+  (SSRE™) for automated statistical decision-making,
+
+  statistical assumption validation, interpretation,
+
+  and academic reporting.
