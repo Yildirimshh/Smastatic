@@ -49,7 +49,7 @@ The proprietary SSRE™ engine performs:
 | Processor | Intel Core i3 or higher |
 | Memory | Minimum 4 GB RAM |
 | Recommended Memory | 8 GB RAM |
-| Storage | 500 MB Free Space |
+| Storage | 100 MB Free Space |
 | Internet | Required only for first account registration and account verification |
 
 ---
