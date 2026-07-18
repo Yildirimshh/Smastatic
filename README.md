@@ -104,7 +104,7 @@ Academic and inventor who hold the (Inv.) – Certified Inventor from IFIA (Gene
 If you use YILDO AI in research, publications, or academic work, please cite the software using the provided citation information.
 
 DOI:
-https://doi.org/10.5281/zenodo.21311292
+https://doi.org/10.5281/zenodo.21434718
 ---
 
 ## License
